@@ -319,7 +319,19 @@ var images = [
     'https://i.bandori.party/u/c/art/a/4289Taki-Shiina-Happy-Falling-Short-of-My-Ideals-dKpP0U.png',
     'https://i.bandori.party/u/c/art/a/4290Tomori-Takamatsu-Pure-The-Cries-of-My-Heart-Rcb3vO.png',
     'https://i.bandori.party/u/c/art/a/4291Anon-Chihaya-Pure-While-We-re-Lost-zk08Jl.png',
-    'https://i.bandori.party/u/c/art/a/4292Soyo-Nagasaki-Pure-I-ll-Put-An-End-To-This-zRazob.png'
+    'https://i.bandori.party/u/c/art/a/4292Soyo-Nagasaki-Pure-I-ll-Put-An-End-To-This-zRazob.png',
+    'https://i.bandori.party/u/c/art/a/980Tomoe-Udagawa-Pure-ddso41.png',
+    'https://i.bandori.party/u/c/art/a/981Ako-Udagawa-Pure-h7BXKW.png',
+    'https://i.bandori.party/u/c/art/a/982Himari-Uehara-Cool-TjkNxX.png',
+    'https://i.bandori.party/u/c/art/a/984Ran-Mitake-Pure-Zy5tIy.png',
+    'https://i.bandori.party/u/c/art/a/985Yukina-Minato-Cool-q0biXF.png',
+    'https://i.bandori.party/u/c/art/a/986Sayo-Hikawa-Cool-ACE4vN.png',
+    'https://i.bandori.party/u/c/art/a/987Lisa-Imai-Pure-GL4a8I.png',
+    'https://i.bandori.party/u/c/art/a/989Ako-Udagawa-Cool-47ohpD.png',
+    'https://i.bandori.party/u/c/art/a/990Tae-Hanazono-Power-bkLB6t.png',
+    'https://i.bandori.party/u/c/art/a/991Saaya-Yamabuki-Power-9kxZyh.png',
+    'https://i.bandori.party/u/c/art/a/992Kasumi-Toyama-Happy-Rtaq9i.png',
+    'https://i.bandori.party/u/c/art/a/994Rimi-Ushigome-Power-bpgT7S.png'
   ];
   
   // Función para seleccionar una imagen aleatoria
