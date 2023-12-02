@@ -232,7 +232,23 @@ var images = [
     'https://i.bandori.party/u/c/art/a/942Kokoro-Tsurumaki-Cool-Rainy-But-Bright-sbUW5z.png',
     'https://i.bandori.party/u/c/art/a/943Tomoe-Udagawa-Cool-The-Taiko-s-Charm-tkWLca.png',
     'https://i.bandori.party/u/c/art/a/944Kasumi-Toyama-Pure-10-Minute-Yell-Uy0YvJ.png',
-    'https://i.bandori.party/u/c/art/a/946Sayo-Hikawa-Cool-With-the-Rain-WYCpvH.png'
+    'https://i.bandori.party/u/c/art/a/946Sayo-Hikawa-Cool-With-the-Rain-WYCpvH.png',
+    'https://i.bandori.party/u/c/art/a/947Hina-Hikawa-Power-A-Late-Meeting-With-Shooting-Stars-Sthd18.png',
+    'https://i.bandori.party/u/c/art/a/948Kaoru-Seta-Power-Fleeting-Performance-IVHnKI.png',
+    'https://i.bandori.party/u/c/art/a/949Lisa-Imai-Power-No-Ghosts-rROYc1.png',
+    'https://i.bandori.party/u/c/art/a/952Aya-Maruyama-Happy-MBGD0S.png',
+    'https://i.bandori.party/u/c/art/a/953Chisato-Shirasagi-Happy-V2vAW3.png',
+    'https://i.bandori.party/u/c/art/a/954Hina-Hikawa-Happy-RkFMpt.png',
+    'https://i.bandori.party/u/c/art/a/955Eve-Wakamiya-Power-AJ1KV1.png',
+    'https://i.bandori.party/u/c/art/a/956Maya-Yamato-Happy-z15ub1.png',
+    'https://i.bandori.party/u/c/art/a/957Kasumi-Toyama-Cool-g0ULkK.png',
+    'https://i.bandori.party/u/c/art/a/958Hagumi-Kitazawa-Cool-xK6ZpD.png',
+    'https://i.bandori.party/u/c/art/a/959Saaya-Yamabuki-Pure-SMyhtu.png',
+    'https://i.bandori.party/u/c/art/a/961Arisa-Ichigaya-Cool-0UFsDD.png',
+    'https://i.bandori.party/u/c/art/a/962Misaki-Okusawa-Pure-FX890r.png',
+    'https://i.bandori.party/u/c/art/a/963Kanon-Matsubara-Pure-Nm0pnS.png',
+    'https://i.bandori.party/u/c/art/a/964Kaoru-Seta-Power-704mLZ.png',
+    'https://i.bandori.party/u/c/art/a/966Kokoro-Tsurumaki-Pure-NJcWOD.png'
   ];
   
   // Función para seleccionar una imagen aleatoria
