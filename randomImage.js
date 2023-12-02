@@ -114,7 +114,11 @@ var images = [
     'https://i.bandori.party/u/c/art/a/653Aya-Maruyama-Power-Working-at-Tanabata-STbISY.png',
     'https://i.bandori.party/u/c/art/a/656Tomoe-Udagawa-Power-The-Patient-in-Pajamas-Xy1qBj.png',
     'https://i.bandori.party/u/c/art/a/657Ako-Udagawa-Power-Nurse-Just-for-Tomoe-YmgNmA.png',
-    'https://i.bandori.party/u/c/art/a/658Hagumi-Kitazawa-Pure-The-Source-of-Being-Healthy-2G3PAh.png'
+    'https://i.bandori.party/u/c/art/a/658Hagumi-Kitazawa-Pure-The-Source-of-Being-Healthy-2G3PAh.png',
+    'https://i.bandori.party/u/c/art/a/661Chisato-Shirasagi-Pure-Friends-I-Can-Trust-xCXg5l.png',
+    'https://i.bandori.party/u/c/art/a/662Eve-Wakamiya-Pure-Bouquet-Filled-With-My-Feelings-XRTqPS.png',
+    'https://i.bandori.party/u/c/art/a/663Maya-Yamato-Power-Moved-to-Tears-qQeEig.png',
+    'https://i.bandori.party/u/c/art/a/666Lisa-Imai-Cool-Dazzling-Sunlight-NJRSvb.png'
   ];
   
   // Función para seleccionar una imagen aleatoria
