@@ -248,7 +248,28 @@ var images = [
     'https://i.bandori.party/u/c/art/a/962Misaki-Okusawa-Pure-FX890r.png',
     'https://i.bandori.party/u/c/art/a/963Kanon-Matsubara-Pure-Nm0pnS.png',
     'https://i.bandori.party/u/c/art/a/964Kaoru-Seta-Power-704mLZ.png',
-    'https://i.bandori.party/u/c/art/a/966Kokoro-Tsurumaki-Pure-NJcWOD.png'
+    'https://i.bandori.party/u/c/art/a/966Kokoro-Tsurumaki-Pure-NJcWOD.png',
+    'https://i.bandori.party/u/c/art/a/967Ran-Mitake-Cool-25EljH.png',
+    'https://i.bandori.party/u/c/art/a/968Himari-Uehara-Cool-guXEHI.png',
+    'https://i.bandori.party/u/c/art/a/969Tsugumi-Hazawa-Happy-hjN7U1.png',
+    'https://i.bandori.party/u/c/art/a/970Tomoe-Udagawa-Power-wgyIkT.png',
+    'https://i.bandori.party/u/c/art/a/971Moca-Aoba-Cool-Vz6Hyk.png',
+    'https://i.bandori.party/u/c/art/a/972Arisa-Ichigaya-Happy-ZbgumK.png',
+    'https://i.bandori.party/u/c/art/a/973Eve-Wakamiya-Happy-UneawG.png',
+    'https://i.bandori.party/u/c/art/a/974Tae-Hanazono-Pure-Dg2Mr8.png',
+    'https://i.bandori.party/u/c/art/a/976Hagumi-Kitazawa-Happy-snCHOW.png',
+    'https://i.bandori.party/u/c/art/a/977Tsugumi-Hazawa-Power-4Bo5BF.png',
+    'https://i.bandori.party/u/c/art/a/978Maya-Yamato-Happy-QPrVc4.png',
+    'https://i.bandori.party/u/c/transparent/1461LAYER-Happy-4WwOUH.png',
+    'https://i.bandori.party/u/c/transparent/1462LOCK-Power-w6xnFJ.png',
+    'https://i.bandori.party/u/c/transparent/1465CHU%C2%B2-Power-C4mNg8.png',
+    'https://i.bandori.party/u/c/art/a/1466LOCK-Cool-oa1wYB.png',
+    'https://i.bandori.party/u/c/art/a/1467CHU%C2%B2-Cool-7Kq1vc.png',
+    'https://i.bandori.party/u/c/transparent/1463MASKING-Cool-u4WT4e.png',
+    'https://i.bandori.party/u/c/transparent/1464PAREO-Cool-2OOgET.png',
+    'https://i.bandori.party/u/c/art/a/1469PAREO-Pure-WIpKCi.png',
+    'https://i.bandori.party/u/c/art/a/1468MASKING-Happy-FcY04d.png',
+    'https://i.bandori.party/u/c/art/a/1470LAYER-Cool-dihlbW.png'
   ];
   
   // Función para seleccionar una imagen aleatoria
